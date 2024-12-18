@@ -1,2 +1,2 @@
-- ⚡ *"Keep coding, keep growing!"*  
+⚡ *"Keep coding, keep growing!"*  
 
