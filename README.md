@@ -1,11 +1,11 @@
 # Hi, I am Jacky 👋
 
-👀 Currently looking for new opportunities.
-👨‍💻 A passionate **Frontend Developer** who loves crafting interactive web experiences.  
-🎯 Focused on building fast, modern, and delightful UIs with **React**, **Vue**, and **Next.js**.  
-🌱 Currently exploring **Web3** and enhancing backend skills with **NestJS** & **Supabase**.  
-⚡ *"Keep coding, keep growing!"*  
-🛠️ Tech Stack:  
+- 👀 Currently looking for new opportunities.
+- 👨‍💻 A passionate **Frontend Developer** who loves crafting interactive web experiences.  
+- 🎯 Focused on building fast, modern, and delightful UIs with **React**, **Vue**, and **Next.js**.  
+- 🌱 Currently exploring **Web3** and enhancing backend skills with **NestJS** & **Supabase**.  
+- ⚡ *"Keep coding, keep growing!"*  
+- 🛠️ Tech Stack:  
 `React` · `Vue` · `Next.js` · `TypeScript` · `Node.js` · `NestJS` · `Supabase` · `PostgreSQL`
 
 ---
