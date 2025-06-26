@@ -1,8 +1,9 @@
 # Hi, I am Jacky 👋
 
-- 👀 Currently looking for new opportunities.
-- 👨‍💻 A passionate **Frontend Developer** who loves crafting interactive web experiences.  
-- ⚡ *"Keep coding, keep growing!"*  
+- Frontend Developer
+- Lifelong Learner
+- Base in Vancouver
+- ⚡ *"Keep coding, keep growing!"* 
 
 ---
 
